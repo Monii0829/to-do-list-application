@@ -1,4 +1,21 @@
 # to-do-list-application
-This application helps users manage their daily tasks efficiently. Users can add new tasks, delete existing ones, and mark tasks as completed. The app uses local storage to ensure that all tasks are saved and persist even after the page is refreshed.
+Project Overview:
+
+This Task Manager application allows users to efficiently manage their daily to-do list with ease. Key features include:
+
+Add Tasks: Users can add new tasks to stay organized.
+
+Delete Tasks: Remove tasks that are no longer needed.
+
+Mark as Completed: Keep track of finished tasks by marking them as done.
+
+Persistent Storage: All tasks are saved using local storage, so data remains even after refreshing or closing the browser.
+
+
+This lightweight and intuitive app helps users stay productive and organized.
+
+
+
+
 
 
